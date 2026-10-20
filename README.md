@@ -42,28 +42,41 @@
 
 ## 5. Хавтасны бүтэц
 
-```text
-lab7_SBTM/
-├── app.js
-├── package.json
-├── README.md
-├── charter.md
-├── session-report.md
-├── bugs/
-│   ├── bug-02.md
-│   ├── bug-05.md
-│   ├── bug-10.md
-│   ├── bug-11.md
-│   └── bug-12.md
-├── evidence/
-│   ├── bug-10-curl.txt
-│   └── bug-11-curl.txt
-└── screenshots/
-    ├── bug-02.png
-    └── bug-12.png
-```
+### Үндсэн файлууд
+- [app.js](./app.js)
+- [README.md](./README.md)
+- [charter.md](./charter.md)
+- [session-report.md](./session-report.md)
 
-*Тайлбар: Дээрх нь жишиг бүтэц. Өөрийн хавтас дахь бодит файлуудтай тулгаж, байхгүй файлын нэрийг хасаж эсвэл засна.*
+### Согогийн тайлангууд (`bugs/`)
+- [BUG-01](./bugs/bug-01.md)
+- [BUG-02](./bugs/bug-02.md)
+- [BUG-03](./bugs/bug-03.md)
+- [BUG-04](./bugs/bug-04.md)
+- [BUG-05](./bugs/bug-05.md)
+- [BUG-06](./bugs/bug-06.md)
+- [BUG-07](./bugs/bug-07.md)
+- [BUG-08](./bugs/bug-08.md)
+- [BUG-09](./bugs/bug-09.md)
+- [BUG-10](./bugs/bug-10.md)
+- [BUG-11](./bugs/bug-11.md)
+- [BUG-12](./bugs/bug-12.md)
+
+### API нотолгоо (`evidence/`)
+- [BUG-10 API нотолгоо](./evidence/bug-10-curl.txt)
+- [BUG-11 API нотолгоо](./evidence/bug-11-curl.txt)
+
+### Дэлгэцийн зургууд (`screenshots/`)
+- [BUG-01 Screenshot](./screenshots/bug-01.png)
+- [BUG-02 Screenshot](./screenshots/bug-02.png)
+- [BUG-03 Screenshot](./screenshots/bug-03.png)
+- [BUG-04 Screenshot](./screenshots/bug-04.png)
+- [BUG-05 Screenshot](./screenshots/bug-05.png)
+- [BUG-06 Screenshot](./screenshots/bug-06.png)
+- [BUG-07 Screenshot](./screenshots/bug-07.png)
+- [BUG-08 Screenshot](./screenshots/bug-08.png)
+- [BUG-09 Screenshot](./screenshots/bug-09.png)
+- [BUG-12 Screenshot](./screenshots/bug-12.png)
 
 ## 6. Ажиллуулах заавар
 
