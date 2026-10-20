@@ -21,3 +21,5 @@
 **Нотолгоо:** `screenshots/bug-12.png`
 
 **Олдсон аялал:** Saboteur
+
+![BUG-12](../screenshots/bug-12.png)

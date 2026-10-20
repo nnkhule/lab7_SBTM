@@ -19,3 +19,5 @@
 **Хавсралт:** screenshots/bug-06.png
 
 **Олдсон аялал:** Supermodel
+
+![BUG-06](../screenshots/bug-06.png)

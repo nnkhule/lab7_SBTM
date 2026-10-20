@@ -18,3 +18,6 @@
 **Хавсралт:** screenshots/bug-01.png
 
 **Олдсон аялал:** Couch Potato
+
+
+![BUG-01](../screenshots/bug-01.png)

@@ -18,3 +18,5 @@
 **Хавсралт:** screenshots/bug-03.png
 
 **Олдсон аялал:** Fed-Ex
+
+![BUG-03](../screenshots/bug-03.png)

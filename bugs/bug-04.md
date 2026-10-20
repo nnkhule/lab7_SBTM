@@ -18,3 +18,5 @@
 **Хавсралт:** screenshots/bug-04.png
 
 **Олдсон аялал:** Couch Potato
+
+![BUG-04](../screenshots/bug-04.png)
